@@ -1,0 +1,4 @@
+pyserial
+requests
+bs4
+zpl
